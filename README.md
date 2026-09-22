@@ -148,6 +148,3 @@ Kontribusi terbuka untuk siapa saja. Silakan buat *fork*, lakukan perubahan pada
 
 ---
 
-## 📄 Lisensi
-
-Proyek ini dirilis di bawah lisensi **MIT**. Lihat berkas [LICENSE](LICENSE) untuk detail lengkap.
